@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://img.shields.io/badge/IntelliJ IDEA-007396?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradle-007396?style=flat-square&logo=Gradle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-007396?style=flat-square&logo=NGINX&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache Tomcat-007396?style=flat-square&logo=ApacheTomcat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-007396?style=flat-square&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Security-007396?style=flat-square&logo=SpringSecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-007396?style=flat-square&logo=Slack&logoColor=white"/>
